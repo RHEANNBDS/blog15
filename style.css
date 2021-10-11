@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size:23px ;
+    width: 100%;
+    margin: 0px;
+}
+#start #number_of_objects #start{
+    font-size: 23px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(29, 4, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 0, 51);
+    line-height: 2;
+    text-align: center;
+}
